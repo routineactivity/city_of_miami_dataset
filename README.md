@@ -1,2 +1,2 @@
-# city_of_miami_dataset
+# City of Miami Dataset
 dataset for spatial regression learning
